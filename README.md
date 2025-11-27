@@ -53,7 +53,7 @@ I focus on creating clean UI, smooth user experiences, and writing maintainable 
 
 ## 💡 Interests & Hobbies
 
-- 🎮 Gaming (Overwatch, Elden Ring)  
+- 🎮 Gaming (Overwatch, Elden Ring ,DBD)  
 - 🎨 UI/UX & modern design systems  
 - ⚙️ Building fast & interactive web apps  
 - 🤝 Helping others improve frontend code  
